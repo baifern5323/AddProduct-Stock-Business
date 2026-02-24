@@ -128,7 +128,8 @@ xlsx (SheetJS): สำหรับจัดการไฟล์ Excel
 3.สร้าง appscript connect sheet ที่สร้าง แขร์สาธารณะ และสิทธิ์เข้าถึง
 
 4.copy link appscript ใส่ใน webapp
-
+------------------------------------------------------------
+https://drive.google.com/drive/folders/1aRiMAF42la2qX8kz-r0o9zG-cHZ75Onk?usp=drive_link
 
 
 
